@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;chap01-bean-factory-lecture-soruce/lib/commons-logging-1.2 (1).jar&apos; to &apos;commons-logging-1.2.jar&apos;" description="Rename resource &apos;commons-logging-1.2 (1).jar&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="lib/commons-logging-1.2 (1).jar" name="commons-logging-1.2.jar" stamp="1679536868625" updateReferences="true"/>
+</session>

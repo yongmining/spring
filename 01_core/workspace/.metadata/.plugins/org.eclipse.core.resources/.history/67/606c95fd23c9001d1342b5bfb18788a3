@@ -1,0 +1,5 @@
+package com.greedy.section02.javaconfig;
+
+public class ContextConfiguration {
+
+}

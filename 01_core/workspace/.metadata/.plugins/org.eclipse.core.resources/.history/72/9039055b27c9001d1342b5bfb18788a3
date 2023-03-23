@@ -1,0 +1,10 @@
+package com.greedy.section01.javacconfig.config;
+
+
+public class ContextConfiguration {
+
+	public ContextConfiguration() {
+		System.out.println("생성자 호출됨");
+		
+	}
+}

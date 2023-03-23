@@ -1,0 +1,31 @@
+package com.greedy.section01.javacconfig;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MemberDAOImpl implements MemberDAO {
+
+	private final Map<Integer, MemberDTO> memberMap;
+	
+	public MemberDTOImpl() {
+		memberMap = new HashMap<>();
+		
+		memberMap.put(1, new MemberDTO(1, "user01", "pass01", "홍길동"));
+		memberMap.put(2, new MemberDTO(2, "user02", "pass02", "유관순"));
+	}
+	
+	@Override
+	public MemberDTO selectMember(int sequence) {
+		
+		return null;
+	}
+
+	@Override
+	public boolean insertMember(MemberDTO newMember) {
+		
+		return false;
+	}
+	
+	
+
+}

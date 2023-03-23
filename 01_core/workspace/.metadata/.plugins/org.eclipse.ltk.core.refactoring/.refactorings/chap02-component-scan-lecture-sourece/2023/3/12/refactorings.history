@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;chap02-component-scan-lecture-sourece/src/com/greedy/section01/javacconfig&apos; to &apos;javaconfig&apos;" description="Rename resource &apos;javacconfig&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/greedy/section01/javacconfig" name="javaconfig" stamp="1679541404650" updateReferences="true"/>
+</session>
