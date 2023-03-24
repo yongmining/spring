@@ -1,4 +1,4 @@
-package com.greedy.section01.javacconfig;
+package com.greedy.section01.javaconfig;
 
 public interface MemberDAO {
 	

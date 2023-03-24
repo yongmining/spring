@@ -1,3 +1,4 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/chap01-bean-factory-lecture-soruce/src/com/greedy/section01/xmlconfig/spring-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/chap02-component-scan-lecture-sourece/src/com/greedy/section02/xmlconfig/config/spring-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/chap03-dependency-injection-lecture-source/src/com/greedy/section02/xmlconfig/config/spring-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 eclipse.preferences.version=1

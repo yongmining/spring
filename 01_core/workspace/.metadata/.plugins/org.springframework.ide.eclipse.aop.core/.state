@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="chap03-dependency-injection-lecture-source"/>
 <aop-project name="chap02-component-scan-lecture-sourece"/>
 <aop-project name="chap01-bean-factory-lecture-soruce"/>
 </aop-reference-model>

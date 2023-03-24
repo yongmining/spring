@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
     <fullyQualifiedTypeName name="com.greedy.section01.javacconfig.config.ContextConfiguration"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.greedy.section01.javaconfig.Member"/>
+    <fullyQualifiedTypeName name="com.greedy.section02.constinjection.config.ContextConfiguration"/>
+    <fullyQualifiedTypeName name="com.greedy.section03.setterinjection.RandomNumberGenerator"/>
+    <fullyQualifiedTypeName name="com.greedy.section03.setterinjection.RandomGenerator"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="com.greedy.section03.setterinjection.config.ContextConfiguration"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
 </qualifiedTypeNameHistroy>

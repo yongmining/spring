@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+   <bean id="accountGenerator" class="com.greedy.section02.xmlconfig.PersonalAccount">
+      <constructor-arg index="0" value="20"/>
+      <constructor-arg name="accNo" value="110-223-456678"/>
+      <constructor-arg name="acccPwd"><value>1234</value></constructor-arg>
+   </bean>
+   
+   <!--  생성자 주입
+   <bean id="memberGenerator" class="com.greedy.section02.xmlconfig.Member">
+      <constructor-arg name="sequence" value="1"/>
+      <constructor-arg name="name" value="홍길동"/>
+      <constructor-arg name="phone" value="010-2345-4567"/>
+      <constructor-arg name="email" value="hong123@gmail.com"/>
+         <constructor-arg name="personalAccount" ref="accountGenerator"/>
+      <constructor-arg>
+         <ref bean="accountGenerator"/>
+      </constructor-arg>
+   </bean>
+   -->
+   
+   <!-- setter 주입 -->
+   <bean id="memberGenerator" class="com.greedy.section02.xmlconfig.Member">
+      <property name="sequence" value="1"/>
+      <property name="name" value="홍길동"/>
+      <property name="phone" value="010-1234-3456"/>
+      <property name="email" value=""/>
+      <property name="personalAccount" ref="accountGenerator"/>      
+   </bean>
+    
+</beans>
