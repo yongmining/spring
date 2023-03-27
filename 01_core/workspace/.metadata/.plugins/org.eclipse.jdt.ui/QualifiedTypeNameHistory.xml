@@ -11,4 +11,10 @@
     <fullyQualifiedTypeName name="com.greedy.section03.setterinjection.config.ContextConfiguration"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="com.greedy.section01.singleton.javaconfig.config.ContextConfiguration"/>
+    <fullyQualifiedTypeName name="com.greedy.section01.properties.javaconfig.Product"/>
+    <fullyQualifiedTypeName name="com.greedy.section01.properties.javaconfig.config.ContextConfiguration"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="com.greedy.section02.locale.javaconfig.config.ContextConfiguration"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
