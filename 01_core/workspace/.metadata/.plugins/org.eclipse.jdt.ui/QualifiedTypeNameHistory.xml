@@ -20,4 +20,10 @@
     <fullyQualifiedTypeName name="com.greedy.section01.advice.annotation.AchievementResult"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Aspect"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.InvocationHandler"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Proxy"/>
+    <fullyQualifiedTypeName name="java.util.logging.Handler"/>
+    <fullyQualifiedTypeName name="org.springframework.cglib.proxy.InvocationHandler"/>
+    <fullyQualifiedTypeName name="org.springframework.cglib.proxy.Enhancer"/>
 </qualifiedTypeNameHistroy>
